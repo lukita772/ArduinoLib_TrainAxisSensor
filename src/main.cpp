@@ -139,12 +139,12 @@ enum connectionType
 } currentConnectionType = _wifi;
 
 //MQTT login
-//const char* broker = "10.128.2.137";
-const char* broker = "190.104.223.227";
-const uint16_t brokerPort = 27001;
-const char MQTT_clientID[] = "27001";
-const char MQTT_user[] = "iot";
-const char MQTT_passworld[] = "iotiot";
+//const char* broker = "";
+const char* broker = "";
+const uint16_t brokerPort = ;
+const char MQTT_clientID[] = "";
+const char MQTT_user[] = "";
+const char MQTT_passworld[] = "";
 
 // Your GPRS credentials
 // Leave empty, if missing user or pass
@@ -153,8 +153,8 @@ const char user[] = "";
 const char pass[] = "";
 
 //WIFI login
-const char* ssid = "IOT";
-const char* password = "T3mp@tUr@...";
+const char* ssid = "";
+const char* password = "";
 
 //Topicos
 const char* topicEjesIR = "23002TopicEjesIR";
