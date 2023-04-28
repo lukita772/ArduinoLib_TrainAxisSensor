@@ -1,3 +1,4 @@
 # ArduinoLib_TrainAxisSensor
 Prototipo para detector de ejes calientes
-![image](https://user-images.githubusercontent.com/117228370/235165951-3d4e72ba-9481-4be6-8a34-0888b33b82f9.png)
+![ejescalientes](https://user-images.githubusercontent.com/117228370/235168797-ff546613-e9d2-4a3f-a5db-3a68381e082c.jpg)
+
